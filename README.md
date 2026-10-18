@@ -1,13 +1,10 @@
 
 <div align="center">
 
-# HERAMB KONDIKAR
-
-### `SOFTWARE DEVELOPMENT` · `DATA SCIENCE` · `ARTIFICIAL INTELLIGENCE`
-
-Computer Engineering Student | Building Projects That Solve Real Problems
+**SOFTWARE DEVELOPMENT · SOFTWARE TESTING & AUTOMATION · DATA SCIENCE & AI**
 
 [GitHub](https://github.com/herambkondilkar) · [LinkedIn](https://www.linkedin.com/in/herambkondilkar/)
+
 
 </div>
 
@@ -15,12 +12,7 @@ Computer Engineering Student | Building Projects That Solve Real Problems
 
 ## `> whoami`
 
-I am a Computer Engineering student interested in software development, data science, and AI. I enjoy building practical applications, exploring machine learning, and continuously improving my technical skills.
-
-- Software development and backend systems
-- Data analysis and machine learning
-- Database design and application development
-- Problem-solving, testing, and clean code
+I am a Computer Engineering student passionate about software development, software testing and automation, and data science & AI. I enjoy building practical applications, validating software quality, analysing data, and continuously improving my technical skills.
 
 ## `> tech_stack`
 
