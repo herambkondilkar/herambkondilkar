@@ -1,7 +1,11 @@
 
 <div align="center">
+  <img src="./assets/banner.svg" alt="Heramb Kondikar — Software Development, Testing & Automation, Data Science & AI" width="100%">
+</div>
 
-**SOFTWARE DEVELOPMENT · SOFTWARE TESTING & AUTOMATION · DATA SCIENCE & AI**
+<div align="center">
+
+
 
 [GitHub](https://github.com/herambkondilkar) · [LinkedIn](https://www.linkedin.com/in/herambkondilkar/)
 
